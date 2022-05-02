@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate with Datascience community ...
 - 📫 How to reach me zeeshankhan29khan@gmail.com
 - 📫 How to reach me https://www.linkedin.com/in/zeeshan-khan-976739184/
-- 📫 Articles published- https://blog.ineuron.ai/article/edit/z97kllWjVn
-
+- 📫 Articles published-https://blog.ineuron.ai/Power-Bi-Assigment-6-z97kllWjVn
 <!---
 Zeeshankhan29/Zeeshankhan29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
