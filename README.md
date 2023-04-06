@@ -6,7 +6,7 @@
 
 ## **About Me**
 
-- 🔭 I’m currently working as **Data scientist in iNeuron intelligence Pvt. Ltd.**
+- 🔭 I’m currently working as **Data scientist in iNeuron Intelligence Pvt. Ltd.**
 
 - 🌱 I’m currently learning **Pytorch,Mlops,NLP,Computer Vision**
 
