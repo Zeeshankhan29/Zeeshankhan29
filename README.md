@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Khan</h1>
 <h3 align="center">As an enthusiastic Data Scientist, I am actively exploring the vast realm of Artificial Intelligence with great fervor and zeal.</h3>
-(img align="right" alt="Coding" width="400" src="https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif")
+<mg align="right" alt="Coding" width="400" src="https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshankhan29&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshankhan29" /> </p>
 
