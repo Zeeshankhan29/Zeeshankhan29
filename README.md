@@ -30,6 +30,7 @@
 <a><img src="https://img.shields.io/badge/Machine Learning-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Machine Learning"/></a>
 <a><img src="https://img.shields.io/badge/Deep Learning-181818?style=for-the-badge&logo=openai&logoColor=white" alt="Deep Learning"/></a>
 <a><img src="https://img.shields.io/badge/Computer vision-181818?style=for-the-badge&logo=openai&logoColor=green" alt="Computer vision"/></a>
+<a><img src="https://img.shields.io/badge/NLP-181818?style=for-the-badge&logo=openai&logoColor=green" alt="NLP"/></a>
 <a><img src="https://img.shields.io/badge/Transformer-%23EE4C2C.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Transformer"/></a>
 </p>
 
