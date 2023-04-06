@@ -21,7 +21,7 @@
 <a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"/></a>
 <a><img src="https://img.shields.io/badge/flask-181818?style=for-the-badge&logo=openai&logoColor=white" alt="flask"/></a>
 <a><img src="https://img.shields.io/badge/streamlit-181818?style=for-the-badge&logo=openai&logoColor=green" alt="streamlit"/></a>
-<a><img src="https://img.shields.io/badge/Django-%23EE4C2C.svg?style=for-the-badge&logo=Django&logoColor=white" alt="pytorch"/></a>
+<a><img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=Django&logoColor=white" alt="pytorch"/></a>
 <a><img src="https://img.shields.io/badge/Mongodb-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Mongodb"/></a>
 <a><img src="https://img.shields.io/badge/Mysql-181818?style=for-the-badge&logo=openai&logoColor=white" alt="Mysql"/></a>
 <a><img src="https://img.shields.io/badge/sklearn-181818?style=for-the-badge&logo=openai&logoColor=green" alt="sklearn"/></a>
