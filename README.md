@@ -6,9 +6,9 @@
 
 ## **About Me**
 
-- 🔭 I’m currently working as **Data scientist in iNeuron Intelligence Pvt. Ltd.**
+- 🔭 I’m currently working as **AI Engineer in Posiflex Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Pytorch,Mlops,NLP,Computer Vision**
+- 🌱 I’m currently learning **Pytorch,Mlops,NLP,Computer Vision,LLM,LLM Fine tunning,RAG Pipeline,AI Agents,Agentic AI **
 
 - 👨‍💻 Completed **Full Stack Data Science certificates.** 
 
