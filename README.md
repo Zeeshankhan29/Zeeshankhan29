@@ -12,9 +12,9 @@
 🔥 Expertise
 - ✅ AI & ML: LLMs, Gen AI, NLP, Computer Vision, CNNs, Object Detection, Image Processing, OCR, Data Augmentation, Data Annotation
 - ✅ Frameworks & Architectures: YOLO, ResNet, GANs, Neural Networks, Transfer Learning, OpenCV, PyTesseract, Ollama, LLaMA 3.2, Hugging Face, TensorFlow, PyTorch, LangChain, LlamaIndex, LangGraph, Vector Databases
-✅ Deployment & Cloud: AWS (EC2, ECR, S3), Edge AI, Scalable Cloud Deployments, Docker, Kubernetes, FastAPI
-✅ Tooling & Engineering: CVAT, Vision Model Tuning, Model Optimization, OCR, Data Engineering, MongoDB, CI/CD, DevOps
-✅ Big Data & MLOps: Azure Databricks, PySpark, Pandas, Apache Airflow, MLFlow, DVC, GitHub Actions
+- ✅ Deployment & Cloud: AWS (EC2, ECR, S3), Edge AI, Scalable Cloud Deployments, Docker, Kubernetes, FastAPI
+- ✅ Tooling & Engineering: CVAT, Vision Model Tuning, Model Optimization, OCR, Data Engineering, MongoDB, CI/CD, DevOps
+- ✅ Big Data & MLOps: Azure Databricks, PySpark, Pandas, Apache Airflow, MLFlow, DVC, GitHub Actions
 - 👨‍💻 Completed **Full Stack Data Science certificates.** 
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/Zeeshankhan29?tab=repositories)
