@@ -5,11 +5,16 @@
 
 
 ## **About Me**
+   Senior Gen AI Engineer | Data Scientist with 6 years of experience in Healthcare, Food & Beverage, E-commerce, and Consumer Packaged Goods (CPG).
 
-- 🔭 I’m currently working as **AI Engineer in Posiflex Pvt. Ltd.**
+🚀 Passionate about building AI-driven solutions with a focus on LLMs, NLP, MLOps, Computer Vision, and Deep Learning.
 
-- 🌱 I’m currently learning **Pytorch,Mlops,NLP,Computer Vision,LLM,LLM Fine tunning,RAG Pipeline,AI Agents,Agentic AI **
-
+🔥 Expertise
+✅ AI & ML: LLMs, Gen AI, NLP, Computer Vision, CNNs, Object Detection, Image Processing, OCR, Data Augmentation, Data Annotation
+✅ Frameworks & Architectures: YOLO, ResNet, GANs, Neural Networks, Transfer Learning, OpenCV, PyTesseract, Ollama, LLaMA 3.2, Hugging Face, TensorFlow, PyTorch, LangChain, LlamaIndex, LangGraph, Vector Databases
+✅ Deployment & Cloud: AWS (EC2, ECR, S3), Edge AI, Scalable Cloud Deployments, Docker, Kubernetes, FastAPI
+✅ Tooling & Engineering: CVAT, Vision Model Tuning, Model Optimization, OCR, Data Engineering, MongoDB, CI/CD, DevOps
+✅ Big Data & MLOps: Azure Databricks, PySpark, Pandas, Apache Airflow, MLFlow, DVC, GitHub Actions
 - 👨‍💻 Completed **Full Stack Data Science certificates.** 
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/Zeeshankhan29?tab=repositories)
