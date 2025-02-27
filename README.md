@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Khan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshankhan29&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshankhan29" /> </p>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=AI Engineer%20@%20Posiflex;Data+Enthusiast'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=AIEngineer%20@%20Posiflex;Data+Enthusiast'/>
 <img align="right" alt="Coding" width="400" src="https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif">
 
 
